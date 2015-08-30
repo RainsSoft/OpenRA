@@ -34,6 +34,21 @@
 	WithVoxelBarrel:
 	WithMuzzleFlash:
 
+TRUCKA:
+	Inherits: ^CivilianVoxelVehicle
+	Valued:
+		Cost: 500
+	Tooltip:
+		Name: Truck
+	Health:
+		HP: 200
+	Armor:
+		Type: Light
+	Mobile:
+		Speed: 56
+	RevealsShroud:
+		Range: 5c0
+
 TRUCKB:
 	Inherits: ^CivilianVoxelVehicle
 	Valued:
